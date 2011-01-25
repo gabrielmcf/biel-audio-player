@@ -1,0 +1,1 @@
+biel-audio-player é um player baseado no decibel-audio-player e pensado para festas. A ideia é que todos possam colocar músicas na lista mas ninguém possa tirar as músicas dos outros. Isso é feito limitando várias funções do player como a de adiantar a faixa, mudar as faixas de posição, parar a lista e selecionar uma música no meio da lista.
