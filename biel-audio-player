@@ -1,2 +1,4 @@
 #!/bin/sh
 exec python ./src/biel-audio-player.py $@
+
+echo batata
